@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { MessageCircleMore } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -8,20 +8,20 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'Y-Art',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
-	profileImage: 'profile.webp',
+	owner: 'Y-Art',
+	profileImage: 'Y-ART.webp',
 	socialLinks: [
 		{
-			name: 'GitHub',
+			name: 'WhatsApp',
 			url: 'https://github.com/rockem/astro-photography-portfolio',
-			icon: Github,
+			icon: MessageCircleMore,
 		} as SocialLink,
-		{
-			name: 'Instagram',
-			url: 'https://www.instagram.com',
-			icon: Instagram,
-		} as SocialLink,
+		// {
+		// 	name: 'Instagram',
+		// 	url: 'https://www.instagram.com',
+		// 	icon: Instagram,
+		// } as SocialLink,
 	],
 };

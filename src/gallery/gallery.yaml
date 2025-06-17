@@ -1,10 +1,10 @@
 collections:
   - id: nature
-    name: Nature
+    name: 6-8岁
   - id: travel
-    name: Travel
+    name: 8-10岁
   - id: street
-    name: Street
+    name: 10-15岁
 images:
   - path: nature/nature-2.jpg
     meta:
