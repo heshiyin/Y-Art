@@ -3,11 +3,11 @@ import siteConfig from '../../site.config.mjs';
 
 const title = siteConfig.title;
 
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/$/, ''); // 去除末尾 /
 const menuItems = [
-	{ name: 'Home', link: `${base}` },
-	{ name: 'Gallery', link: `${base}/collections` },
-	{ name: 'About', link: `${base}/about` },
+	{ name: '首页', link: `${base}/` },
+	{ name: '作品集', link: `${base}/collections` },
+	{ name: '关于Y-Art', link: `${base}/about` },
 ];
 ---
 

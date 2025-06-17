@@ -15,7 +15,7 @@ export default {
 	socialLinks: [
 		{
 			name: 'WhatsApp',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'xxxx',
 			icon: MessageCircleMore,
 		} as SocialLink,
 		// {
