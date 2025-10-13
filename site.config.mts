@@ -13,11 +13,11 @@ export default {
 	owner: 'Y-Art',
 	profileImage: 'Y-ART.webp',
 	socialLinks: [
-		{
-			name: 'WhatsApp',
-			url: 'xxxx',
-			icon: MessageCircleMore,
-		} as SocialLink,
+		// {
+		// 	name: 'WhatsApp',
+		// 	url: 'xxxx',
+		// 	icon: MessageCircleMore,
+		// } as SocialLink,
 		// {
 		// 	name: 'Instagram',
 		// 	url: 'https://www.instagram.com',

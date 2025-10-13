@@ -1,14 +1,17 @@
 ---
-title: About me
+title: About Y-Art 
 ---
 
-### Hi, I'm Sara Richard 👋
+**Y-Art** 是一个注重专业与个体表达的个人画室。  
+在这里，每个人都能通过绘画，发现独特的自己。
 
-I've been a photographer for over 10 years, focusing primarily on landscape and portrait photography. My journey began
-with a simple point-and-shoot camera while traveling through the mountains of Colorado, which sparked a passion that has
-taken me across the globe.
-My approach to photography centers on finding the extraordinary in ordinary moments. I believe that beauty exists
-everywhere – in urban streets, remote wilderness, and human connections. My goal is to capture these fleeting instances
-in a way that allows viewers to see the world through a different lens.
-When I'm not behind the camera, you can find me hiking in national parks, exploring new cities, or enjoying a cup of
-coffee at local cafés while planning my next photo adventure.
+**画画的Yana (Wu Yang)**  
+毕业于油画系本科与硕士，拥有丰富的艺术创作与教学经验。
+
+**Y-Art** 为 5 岁至成人 提供多元化的绘画课程， 涵盖素描、色彩、油画与创意表达等方向。
+
+**教学理念：**
+> 绘画不仅是技巧的积累，也是理解世界与表达自我的一种语言。  
+> 它不仅能提升技巧，也能帮助学员感受并表达生活中的细节与情绪。
+
+在 **Y-Art**，每一份热爱都值得被珍视，每一点进步都能被看见。

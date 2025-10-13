@@ -6,28 +6,40 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <div class="absolute left-0 right-0 z-0">
-	<div class="text-center mb-12 relative z-10">
-		<h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
-			{owner} 记录生活~
-		</h1>
-		<p class="mt-4 text-base md:text-lg text-gray-700">免费试课请加入我的联系方式</p>
-		<p class="mt-4 text-base md:text-lg text-gray-700">免费试课请加入我的联系方式</p>
-		<p class="mt-4 text-base md:text-lg text-gray-700">免费试课请加入我的联系方式</p>
-		<p class="mt-4 text-base md:text-lg text-gray-700">免费试课请加入我的联系方式</p>
-		<p class="mt-4 text-base md:text-lg text-gray-700">免费试课请加入我的联系方式</p>
-		<p>sssss</p>
-		<p>sssss</p>
-		<p>sssss</p>
-		<p>sssss</p>
-		<p>11111</p>
-		<a
-			href=`${base}/collections`
-			class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
-                      hover:bg-black hover:text-white transition-all duration-300
-                      text-sm md:text-base font-medium
-                      transform hover:scale-105 active:scale-95"
-		>
-			查看作品
-		</a>
-	</div>
+  <div class="text-center mb-12 relative z-10 px-4 md:px-8 lg:px-16">
+    <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
+      {owner} 
+    </h1>
+    <p class="mt-4 text-base md:text-lg text-gray-700">
+      每一份热爱都值得被珍视，每一点进步都能被看见。
+    </p>
+    <p class="mt-4 text-gray-600 font-medium">联系方式：</p>
+
+    {/* 二维码容器 */}
+    <div class="flex flex-col sm:flex-row justify-center items-center gap-8 mt-4">
+      {/* WhatsApp */}
+      <div class="flex flex-col items-center">
+        <p class="text-gray-600 mb-2">WhatsApp</p>
+        <img src="/images/whatsapp.png" alt="WhatsApp QR" class="w-32 h-32"/>
+      </div>
+
+      {/* 微信 */}
+      <div class="flex flex-col items-center">
+        <p class="text-gray-600 mb-2">微信</p>
+        <img src="/images/wechat.jpg" alt="WeChat QR" class="w-32 h-32"/>
+      </div>
+    </div>
+
+    {/* 查看作品按钮 */}
+    <a
+      href={base + '/collections'}
+      class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
+             hover:bg-black hover:text-white transition-all duration-300
+             text-sm md:text-base font-medium
+             transform hover:scale-105 active:scale-95"
+    >
+      查看作品
+    </a>
+  </div>
 </div>
+
