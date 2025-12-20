@@ -8,74 +8,55 @@ collections:
   - id: nine
     name: 9-12岁
 images:
-  - path: five/five-1.jpg
+  - path: six/s-26.jpeg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
+        - featured
+        - travel
     exif: {}
-  - path: five/five-2.jpg
+  - path: six/s-27.jpeg
     meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
+        - travel
     exif: {}
-  - path: five/five-3.jpg
+  - path: six/s-31.jpeg
     meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
+        - featured
+        - travel
     exif: {}
-  - path: five/five-4.jpg
+  - path: six/s-29.jpeg
     meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
+        - travel
     exif: {}
-  - path: five/five-5.jpg
+  - path: six/s-30.jpeg
     meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
+        - travel
     exif: {}
-  # - path: five/five-6.jpg
-  #   meta:
-  #     title: Travel scene 6
-  #     description: null
-  #     collections:
-  #       - featured
-  #       - nature
-  #   exif:
-  #     captureDate: 2025-03-27T10:35:21.000Z
-  #     fNumber: 8
-  #     focalLength: 28
-  #     iso: 100
-  #     model: LEICA Q3
-  #     shutterSpeed: 1250
-  #     lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: five/five-6.jpg
+  - path: six/s-28.jpeg
     meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
+      title: Nature 1
+      description: ''
       collections:
-        - nature
-    exif: {}
-  - path: five/five-7.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - nature
+        - featured
+        - travel
     exif: {}
   - path: six/s-1.jpg
     meta:
       title: Travel scene 1
-      description: Journey through remarkable destinations.
+      description: 
       collections:
         - travel
     exif: {}
@@ -247,6 +228,13 @@ images:
       collections:
         - travel
     exif: {}
+  - path: seven/se-8.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - street
+    exif: {}
   - path: seven/se-1.jpg
     meta:
       title: Nature 1
@@ -294,14 +282,60 @@ images:
       title: Nature 1
       description: ''
       collections:
+        - featured
         - street
+    exif: {}
+  - path: nine/n-22.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - nine
+    exif: {}
+  - path: nine/n-23.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - nine
+    exif: {}
+  - path: nine/n-24.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - nine
+    exif: {}
+  - path: nine/n-25.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - nine
+    exif: {}
+  - path: nine/n-26.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - nine
+    exif: {}
+  - path: nine/n-27.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - nine
     exif: {}
   - path: nine/n-1.jpg
     meta:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-2.jpg
@@ -337,7 +371,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-7.jpg
@@ -345,7 +378,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-8.jpg
@@ -353,7 +385,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-9.jpg
@@ -404,7 +435,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-16.jpg
@@ -412,7 +442,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-17.jpg
@@ -442,7 +471,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-21.jpg
@@ -450,7 +478,93 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
+  - path: five/five-9.jpeg
+    meta:
+      title: Street photography 2
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-10.jpeg
+    meta:
+      title: Street photography 3
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-8.jpeg
+    meta:
+      title: Street photography 4
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-1.jpg
+    meta:
+      title: Nature scene 2
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-2.jpg
+    meta:
+      title: Nature scene 3
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-3.jpg
+    meta:
+      title: Nature scene 5
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-4.jpg
+    meta:
+      title: Nature scene 7
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-5.jpg
+    meta:
+      title: Nature scene 8
+      description: 
+      collections:
+        - nature
+    exif: {}
+  # - path: five/five-6.jpg
+  #   meta:
+  #     title: Travel scene 6
+  #     description: null
+  #     collections:
+  #       - featured
+  #       - nature
+  #   exif:
+  #     captureDate: 2025-03-27T10:35:21.000Z
+  #     fNumber: 8
+  #     focalLength: 28
+  #     iso: 100
+  #     model: LEICA Q3
+  #     shutterSpeed: 1250
+  #     lensModel: SUMMILUX 1:1.7/28 ASPH.
+  - path: five/five-6.jpg
+    meta:
+      title: Nature scene 10
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-7.jpg
+    meta:
+      title: Street photography 1
+      description: 
+      collections:
+        - nature
+    exif: {}
+  
+
 
