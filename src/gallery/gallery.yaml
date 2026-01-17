@@ -13,7 +13,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - travel
     exif: {}
   - path: six/s-27.jpeg
@@ -32,6 +31,13 @@ images:
         - travel
     exif: {}
   - path: six/s-29.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - travel
+    exif: {}
+  - path: six/s-32.jpeg
     meta:
       title: Nature 1
       description: ''
@@ -228,6 +234,14 @@ images:
       collections:
         - travel
     exif: {}
+  - path: seven/se-9.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - street
+    exif: {}
   - path: seven/se-8.jpeg
     meta:
       title: Nature 1
@@ -285,6 +299,13 @@ images:
         - featured
         - street
     exif: {}
+  - path: nine/n-28.jpeg
+    meta:
+      title: Nature 1
+      description: ''
+      collections:
+        - featured
+        - nine
   - path: nine/n-22.jpeg
     meta:
       title: Nature 1
@@ -298,7 +319,6 @@ images:
       title: Nature 1
       description: ''
       collections:
-        - featured
         - nine
     exif: {}
   - path: nine/n-24.jpeg
@@ -479,6 +499,27 @@ images:
       description: ''
       collections:
         - nine
+    exif: {}
+  - path: five/five-11.jpeg
+    meta:
+      title: Street photography 2
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-12.jpeg
+    meta:
+      title: Street photography 2
+      description: 
+      collections:
+        - nature
+    exif: {}
+  - path: five/five-13.jpeg
+    meta:
+      title: Street photography 2
+      description: 
+      collections:
+        - nature
     exif: {}
   - path: five/five-9.jpeg
     meta:
